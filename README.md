@@ -1,16 +1,17 @@
 ### Hi there 👋
+## About Me
 
-<!--
-**kapil0jaiswal/kapil0jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate Software Developer with over 4 years of experience in building robust web applications using modern technologies like **Java**, **Spring Boot**, **React**, and **Microservices**. I enjoy crafting clean, efficient code and am always keen to learn new skills. This portfolio showcases some of the projects I've worked on and the technologies I specialize in.
 
-Here are some ideas to get you started:
+Feel free to explore and connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I work with:
+- Java, Spring Boot, Microservices
+- React, HTML, CSS, JavaScript
+- Git, Maven, Postman, JUnit
+  
+### Let's Connect:
+- 📘 [Facebook](https://www.facebook.com/kapil.jaiswal2)
+- 📱 [WhatsApp](https://wa.me/+91-8359030051?text=Hi%20kapil%20visited%20your%20website%20wanna%20connect%3F%0A)
+- 🐙 [GitHub](https://github.com/kapil0jaiswal)
+- 📷 [Instagram](https://www.instagram.com/kapil_jaisvval/)
